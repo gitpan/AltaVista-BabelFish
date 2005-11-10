@@ -1,0 +1,16 @@
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         AltaVista-BabelFish
+version:      v42.0.1
+version_from: BabelFish.pm
+installdirs:  site
+requires:
+    CPAN:                          0
+    Class::Std:                    0
+    LWP::UserAgent:                0
+    IO::Redirect:                  0
+    Class::Std::Utils:             0
+    version:                       0
+    Locales::Language:             0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.12
