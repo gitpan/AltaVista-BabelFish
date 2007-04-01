@@ -2,7 +2,7 @@ package AltaVista::BabelFish;
    
 use strict;
 use warnings;
-use version; our $VERSION = qv('42.0.1');
+use version; our $VERSION = qv('42.0.2');
 
 use Class::Std;
 use Class::Std::Utils;

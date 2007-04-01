@@ -9,7 +9,7 @@ WriteMakefile(
                              Class::Std        => 0,
                              Class::Std::Utils => 0,
                              version           => 0,
-                             IO::Redirect      => 0, # optional
+                             # IO::Redirect      => 0, # optional
                              CPAN              => 0, # optional
                          },
     ($] >= 5.005 ?    
